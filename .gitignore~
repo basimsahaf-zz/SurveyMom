@@ -1,5 +1,3 @@
-config
-repository.txt
 # Logs
 logs
 *.log
